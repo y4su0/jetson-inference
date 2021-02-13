@@ -1,5 +1,5 @@
 
-print("Jetson.Inference.__init__.py")
+print("jetson.inference.__init__.py")
 
 from jetson_inference_python import *
 
